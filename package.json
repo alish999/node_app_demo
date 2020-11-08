@@ -1,0 +1,20 @@
+{
+  "name": "node_app",
+  "version": "1.0.0",
+  "description": "here we go",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alish999/node_app_demo.git"
+  },
+  "author": "Alish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alish999/node_app_demo/issues"
+  },
+  "homepage": "https://github.com/alish999/node_app_demo#readme"
+}
